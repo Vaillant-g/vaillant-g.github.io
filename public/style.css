@@ -9,8 +9,16 @@ body {
     padding-bottom: 30px;
 }
 
+.ma_stack {
+    background-color: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .roadmap {
     background-color: #A9DDD6;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .projets {
