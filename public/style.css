@@ -1,0 +1,43 @@
+body {
+    font-family: Amiko !important;
+}
+
+.intro {
+    /* background-image: url("./public/img/montmartre2.jpg"); */
+    background-color: #A9DDD6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.roadmap {
+    background-color: #A9DDD6;
+}
+
+.projets {
+    background-color: #91ADC2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.planit {
+    -webkit-box-shadow: 0 0 0 4px white, 0 6px 4px black;
+    -moz-box-shadow: 0 0 0 4px white, 0 6px 4px black;
+    box-shadow: 0 0 0 4px white, 0 6px 4px black;
+}
+
+@font-face {
+    font-family: 'Amiko';
+    src: url('Amiko-Regular.ttf');
+    src: local('Amiko Regular'), local('Amiko'), url('Amiko-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Overpass';
+    src: url('Overpass-Regular.ttf');
+    src: local('Overpass'), local('Overpass'), url('Overpass-Regular.ttf') format('truetype');
+}
+
+.logo_techno {
+    height: 40px;
+    vertical-align: bottom;
+}
