@@ -15,6 +15,10 @@ body {
     padding-bottom: 30px;
 }
 
+.ma_stack img {
+    padding-right: 10px;
+}
+
 .roadmap {
     background-color: #A9DDD6;
     padding-top: 30px;
