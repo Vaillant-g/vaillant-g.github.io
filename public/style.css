@@ -2,35 +2,33 @@ body {
     font-family: Amiko !important;
 }
 
-.intro {
+.paragraphe {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#intro {
     /* background-image: url("./public/img/montmartre2.jpg"); */
     background-color: #A9DDD6;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
-.ma_stack {
+#ma_stack {
     background-color: #FFFFFF;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
-.ma_stack img {
+#ma_stack img {
     padding-right: 10px;
 }
 
-.roadmap {
+#roadmap {
     background-color: #A9DDD6;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
-.projets {
+#projets {
     background-color: #91ADC2;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
+/* Projets */
 .planit {
     -webkit-box-shadow: 0 0 0 4px white, 0 6px 4px black;
     -moz-box-shadow: 0 0 0 4px white, 0 6px 4px black;
