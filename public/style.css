@@ -27,6 +27,11 @@ body {
 #projets {
     background-color: #91ADC2;
 }
+#experience {
+    background-color: #A9DDD6;
+}
+
+.nom_entreprise
 
 /* Projets */
 .planit {
@@ -34,6 +39,8 @@ body {
     -moz-box-shadow: 0 0 0 4px white, 0 6px 4px black;
     box-shadow: 0 0 0 4px white, 0 6px 4px black;
 }
+
+
 
 @font-face {
     font-family: 'Amiko';
