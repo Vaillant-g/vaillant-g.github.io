@@ -31,14 +31,25 @@ body {
     background-color: #A9DDD6;
 }
 
-.nom_entreprise
+.nom_entreprise, .keywords {
+    font-weight: bold;
+}
+
+#contact .liens {
+    margin-bottom: 20px;
+}
+
+.icone {
+    height: 25px;
+    margin-right: 10px;
+}
+
+.logo {
+    height: 50px;
+}
 
 /* Projets */
-.planit {
-    -webkit-box-shadow: 0 0 0 4px white, 0 6px 4px black;
-    -moz-box-shadow: 0 0 0 4px white, 0 6px 4px black;
-    box-shadow: 0 0 0 4px white, 0 6px 4px black;
-}
+
 
 
 
