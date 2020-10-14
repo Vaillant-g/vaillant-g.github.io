@@ -2,4 +2,4 @@
 
 Mon github page encore en construction !
 
-url : https://vaillant-g.github.io./
+url : https://vaillant-g.github.io/
