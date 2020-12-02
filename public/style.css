@@ -2,6 +2,16 @@ body {
     font-family: Amiko !important;
 }
 
+ul {
+    /* list-style: none; */
+}
+
+li {
+
+    margin-bottom: 0px;
+    /* à adapter */
+}
+
 .paragraphe {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -27,6 +37,7 @@ body {
 #projets {
     background-color: #91ADC2;
 }
+
 #experience {
     background-color: #A9DDD6;
 }
@@ -49,9 +60,6 @@ body {
 }
 
 /* Projets */
-
-
-
 
 @font-face {
     font-family: 'Amiko';
