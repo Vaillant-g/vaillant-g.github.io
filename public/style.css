@@ -2,12 +2,15 @@ body {
     font-family: Amiko !important;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 ul {
     /* list-style: none; */
 }
 
 li {
-
     margin-bottom: 0px;
     /* à adapter */
 }
